@@ -163,11 +163,10 @@ namespace Technovert.Banking.Service
                 ///Console.WriteLine(bank.Name);
                 string accountNumber = GenerateAccountNumber();
                 int accountPin = GeneratePin();
+                string accountID = GenerateAccountID(name);
                 //List<Transaction> passbook = new List<Transaction>();
 
-                Customer account = new Customer(name, gender, accountNumber, accountPin, balance);
-                account.AccountId = GenerateAccountID(name);
-
+                Customer account = new Customer(accountID ,name, gender, accountNumber, accountPin, balance);
                 bank.CustomerDetails.Add(account);
 
                 return account;

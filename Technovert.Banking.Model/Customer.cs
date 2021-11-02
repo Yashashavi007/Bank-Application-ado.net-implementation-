@@ -5,10 +5,8 @@ using static Technovert.Banking.Enums.CustomerEnum;
 
 namespace Technovert.Banking.Model
 {
-    public class Customer
+    public class Customer : User
     {
-        public string AccountId { get; set; }
-        public string Name { get; set; }
         public CustomerGender Gender { get; set; }
         public string AccountNumber { get; set; }
         public int Pin { get; set; }
@@ -17,8 +15,9 @@ namespace Technovert.Banking.Model
         public AccountStatus Status { get; set; }
 
 
-        public Customer(string name, CustomerGender gender, string accNumber, int accPin, float balance, AccountStatus status = AccountStatus.Active)
+        public Customer(string accID, string name, CustomerGender gender, string accNumber, int accPin, float balance, AccountStatus status = AccountStatus.Active)
         {
+            this.ID = accID;
             this.Name = name;
             this.Gender = gender;
             this.AccountNumber = accNumber;
