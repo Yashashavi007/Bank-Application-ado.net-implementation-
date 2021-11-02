@@ -1,0 +1,10 @@
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\bin\Debug\netcoreapp3.1\Technovert.Banking.Enums.deps.json
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\bin\Debug\netcoreapp3.1\Technovert.Banking.Enums.dll
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\bin\Debug\netcoreapp3.1\Technovert.Banking.Enums.pdb
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\obj\Debug\netcoreapp3.1\Technovert.Banking.Enums.csproj.AssemblyReference.cache
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\obj\Debug\netcoreapp3.1\Technovert.Banking.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\obj\Debug\netcoreapp3.1\Technovert.Banking.Enums.AssemblyInfoInputs.cache
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\obj\Debug\netcoreapp3.1\Technovert.Banking.Enums.AssemblyInfo.cs
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\obj\Debug\netcoreapp3.1\Technovert.Banking.Enums.csproj.CoreCompileInputs.cache
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\obj\Debug\netcoreapp3.1\Technovert.Banking.Enums.dll
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Enums\obj\Debug\netcoreapp3.1\Technovert.Banking.Enums.pdb

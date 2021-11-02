@@ -1,0 +1,15 @@
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.csproj.AssemblyReference.cache
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.AssemblyInfoInputs.cache
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.AssemblyInfo.cs
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\bin\Debug\netcoreapp3.1\Technovert.Banking.Service.deps.json
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\bin\Debug\netcoreapp3.1\Technovert.Banking.Service.dll
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\bin\Debug\netcoreapp3.1\Technovert.Banking.Service.pdb
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\bin\Debug\netcoreapp3.1\Technovert.Banking.Enums.dll
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\bin\Debug\netcoreapp3.1\Technovert.Banking.Model.dll
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\bin\Debug\netcoreapp3.1\Technovert.Banking.Model.pdb
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\bin\Debug\netcoreapp3.1\Technovert.Banking.Enums.pdb
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.csproj.CopyComplete
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.dll
+C:\Users\Mark-42\source\repos\Technovert.Banking\Technovert.Banking.Service\obj\Debug\netcoreapp3.1\Technovert.Banking.Service.pdb

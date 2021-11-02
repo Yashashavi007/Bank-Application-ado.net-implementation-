@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Technovert.Banking.Enums/1.0.0": {
+        "runtime": {
+          "Technovert.Banking.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Technovert.Banking.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
