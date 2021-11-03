@@ -13,9 +13,9 @@ namespace Technovert.Banking.Model
         public List<Employee> EmployeeDetails { get; set; }
 
         private float sameRTGS = 0;
-        private float diffRTGS = 2/100;
-        private float sameIMPS = 5/100;
-        private float diffIMPS = 6/100;
+        private float diffRTGS = .02f;
+        private float sameIMPS = .05f;
+        private float diffIMPS = .06f;
 
         public float SameRTGS
         {
