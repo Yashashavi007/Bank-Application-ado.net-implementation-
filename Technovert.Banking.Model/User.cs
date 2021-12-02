@@ -6,8 +6,8 @@ namespace Technovert.Banking.Model
 {
     public class User
     {
-        protected string ID { get; set; }
-        protected string Name { get; set; }
+        public string ID { get; set; }
+        public string Name { get; set; }
 
     }
 }

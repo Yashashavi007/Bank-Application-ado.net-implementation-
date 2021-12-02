@@ -72,5 +72,10 @@ namespace Technovert.Banking.Service
         {
             EmployeeService.UpdateTransactionHistory(bank, toAccount, fromAccount, operation, amount);
         }
+
+        public void CheckTableContent()
+        {
+            EmployeeService.PrintTableContent();
+        }
     }
 }

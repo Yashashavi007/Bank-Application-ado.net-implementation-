@@ -48,9 +48,9 @@ namespace Technovert.Banking.CLI
                 Console.WriteLine("\t\t Account created successfully!!");
                 Console.WriteLine("\t\t Keep your account details for future reference!");
 
-                Console.WriteLine($"\t\t Employee's name : {newEmployee.EName}");
+                Console.WriteLine($"\t\t Employee's name : {newEmployee.Name}");
                 Console.WriteLine($"\t\t Employee's gender : {newEmployee.Gender}");
-                Console.WriteLine($"\t\t Employee's ID : {newEmployee.EID}");
+                Console.WriteLine($"\t\t Employee's ID : {newEmployee.ID}");
                 Console.WriteLine($"\t\t Employee's PIN : {newEmployee.Pin}");
             }
             catch (Exception e)

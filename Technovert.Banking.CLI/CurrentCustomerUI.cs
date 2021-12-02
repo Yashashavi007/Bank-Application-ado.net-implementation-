@@ -83,6 +83,7 @@ namespace Technovert.Banking.CLI
                 Console.WriteLine("\t\t 3. Transfer Amount");
                 Console.WriteLine("\t\t 4. Check Balance");
                 Console.WriteLine("\t\t 5. Print e-Passbook");
+                Console.WriteLine("\t\t 6. Print Table Content");
 
                 Console.Write("\t\t What you would like to do today? ");
                 //int choice = Convert.ToInt32(Console.ReadLine());
@@ -155,6 +156,9 @@ namespace Technovert.Banking.CLI
                         {
                             Console.WriteLine($"\t\t {transaction.Id} | {transaction.SenderAccountNumber} | {transaction.timeStamp} | {transaction.Amount}");
                         }
+                        break;
+                    case CustomerOperations.PrintTableContent:
+                        Customer.CheckTableContent();
                         break;
                     default:
                         Console.WriteLine("\t\t Invalid Choice!!");

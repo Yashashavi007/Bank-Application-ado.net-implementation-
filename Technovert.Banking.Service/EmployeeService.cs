@@ -71,7 +71,7 @@ namespace Technovert.Banking.Service
         {
             foreach (Employee emp in bank.EmployeeDetails)
             {
-                if (emp.EID == empID)
+                if (emp.ID == empID)
                 {
                     return emp;
                 }
@@ -165,7 +165,13 @@ namespace Technovert.Banking.Service
                 int accountPin = GeneratePin();
                 string accountID = GenerateAccountID(name);
                 //List<Transaction> passbook = new List<Transaction>();
-
+                
+                if(DBService.CheckTable()==false)
+                {
+                    DBService.CreateCustomerTable();
+                }
+                
+                DBService.InsertIntoTable(accountID, name, Convert.ToString(gender), accountNumber, balance, "open");
                 Customer account = new Customer(accountID ,name, gender, accountNumber, accountPin, balance);
                 bank.CustomerDetails.Add(account);
 
@@ -301,6 +307,11 @@ namespace Technovert.Banking.Service
             Transaction obj = new Transaction(operation, fromAccount, amount, DateTime.Now);
             obj.Id = transactionId;
             toAccount.Passbook.Add(obj);
+        }
+
+        public static void PrintTableContent()
+        {
+            DBService.RetrieveData();
         }
     }
 }

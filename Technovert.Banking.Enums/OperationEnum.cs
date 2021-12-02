@@ -12,7 +12,9 @@ namespace Technovert.Banking.Enums
             Withdraw,
             Transfer,
             CheckBalance,
-            PrintPassbook
+            PrintPassbook,
+            PrintTableContent
+
         }
 
         public enum EmployeeOperations
